@@ -1,0 +1,6 @@
+{
+  "name": "AutoMedic AI",
+  "description": "شخّص عطل سيارتك بذكاء قبل الذهاب إلى الميكانيكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
